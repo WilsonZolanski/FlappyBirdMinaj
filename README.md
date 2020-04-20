@@ -1,5 +1,4 @@
 # Flappy Bird Minaj
-Flappy Bird Minaj — Jogo Inspirado em Flappy Bird
 
 > Um simples jogo inspirado famoso jogo de passarinho, o Flappy Bird, o jogo segue a mesma tématica, mas com adições inspirados em Nicki Minaj, cenário, música e objetivos.
 
