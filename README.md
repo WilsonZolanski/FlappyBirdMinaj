@@ -1,10 +1,11 @@
 # Flappy Bird Minaj
 
-> Um simples jogo inspirado famoso jogo de passarinho, o Flappy Bird, o jogo segue a mesma tématica, mas com adições inspirados em Nicki Minaj, cenário, música e objetivos.
+> Um simples jogo inspirado famoso jogo de passarinho "Flappy Bird", o jogo segue a mesma tématica, mas com adições inspirados em Nicki Minaj, cenário, música e objetivos.
 
 <p float="left">
   <image width=100%, src="https://user-images.githubusercontent.com/45144908/79805543-c2efe700-833c-11ea-960c-6ddfe33da980.gif"/> 
 </p>
+
 ### Instruções de uso
 
 ```shell
