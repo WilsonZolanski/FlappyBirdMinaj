@@ -8,8 +8,7 @@ Flappy Bird Minaj — Jogo Inspirado em Flappy Bird
 *O projeto é um sistema aberto e de livre escolha do aluno, você pode entender o desenvolvimento, clicando no link> [projeto](https://github.com/WilsonZolanski/SistemasNota/blob/master/Projeto%202019.2.pdf).*
 
 <p float="left">
-  <image width=49%, src="https://user-images.githubusercontent.com/45144908/79803435-5c68ca00-8338-11ea-9465-c9ff9834bd15.gif"/> 
-  <image width=49%, src="https://user-images.githubusercontent.com/45144908/79803435-5c68ca00-8338-11ea-9465-c9ff9834bd15.gif"/> 
+  <image width=100%, src="https://user-images.githubusercontent.com/45144908/79805543-c2efe700-833c-11ea-960c-6ddfe33da980.gif"/> 
 </p>
 
 # Mais detalhes
