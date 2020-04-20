@@ -5,11 +5,8 @@
 <p float="left">
   <image width=100%, src="https://user-images.githubusercontent.com/45144908/79805543-c2efe700-833c-11ea-960c-6ddfe33da980.gif"/> 
 </p>
-
-# Mais detalhes
-
 ### Instruções de uso
-Para o funcionamento do jogo, siga as instruções:
+
 ```shell
 Após baixar toda a pasta com os arquivos "Flappy Bird Minaj (Python)", verifique se você tem Python instalado na máquina, caso não tenha instalado, abra o arquivo "Flappy.exe", caso contrario abra o arquivo "Flappy.py" dando um duplo clique.
 ```
